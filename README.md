@@ -1,11 +1,11 @@
 # AI-ML-Sessions
 
 #Libraries 
-import pandas as pd
-from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans
-from sklearn.decomposition import PCA
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly.express as px
+1.import pandas as pd
+2.from sklearn.preprocessing import StandardScaler
+3.from sklearn.cluster import KMeans
+4.from sklearn.decomposition import PCA
+5.import matplotlib.pyplot as plt
+6.import seaborn as sns
+7.mport plotly.express as px
      
